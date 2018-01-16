@@ -1,0 +1,6 @@
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\TestOne\bin\Debug\TestOne.exe.config
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\TestOne\bin\Debug\TestOne.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\TestOne\bin\Debug\TestOne.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\TestOne\obj\Debug\TestOne.csprojResolveAssemblyReference.cache
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\TestOne\obj\Debug\TestOne.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\TestOne\obj\Debug\TestOne.pdb

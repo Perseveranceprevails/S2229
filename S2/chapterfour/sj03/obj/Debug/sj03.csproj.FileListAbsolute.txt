@@ -1,0 +1,6 @@
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterfour\sj03\bin\Debug\sj03.exe.config
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterfour\sj03\bin\Debug\sj03.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterfour\sj03\bin\Debug\sj03.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterfour\sj03\obj\Debug\sj03.csprojResolveAssemblyReference.cache
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterfour\sj03\obj\Debug\sj03.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterfour\sj03\obj\Debug\sj03.pdb

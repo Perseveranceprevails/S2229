@@ -1,0 +1,6 @@
+F:\Visu Studio\Visual Studio 2012\Projects\S2\设计原则\Day001_设计原则\Day001_单例原则\bin\Debug\Day001_单例原则.exe.config
+F:\Visu Studio\Visual Studio 2012\Projects\S2\设计原则\Day001_设计原则\Day001_单例原则\bin\Debug\Day001_单例原则.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\设计原则\Day001_设计原则\Day001_单例原则\bin\Debug\Day001_单例原则.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\设计原则\Day001_设计原则\Day001_单例原则\obj\Debug\Day001_单例原则.csprojResolveAssemblyReference.cache
+F:\Visu Studio\Visual Studio 2012\Projects\S2\设计原则\Day001_设计原则\Day001_单例原则\obj\Debug\Day001_单例原则.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\设计原则\Day001_设计原则\Day001_单例原则\obj\Debug\Day001_单例原则.pdb

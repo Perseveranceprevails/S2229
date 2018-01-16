@@ -1,0 +1,6 @@
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\jd04\bin\Debug\jd04.exe.config
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\jd04\bin\Debug\jd04.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\jd04\bin\Debug\jd04.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\jd04\obj\Debug\jd04.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\jd04\obj\Debug\jd04.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterTwo\jd04\obj\Debug\jd04.csprojResolveAssemblyReference.cache

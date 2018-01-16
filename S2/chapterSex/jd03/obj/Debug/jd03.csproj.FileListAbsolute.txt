@@ -1,0 +1,6 @@
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSex\jd03\bin\Debug\jd03.exe.config
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSex\jd03\bin\Debug\jd03.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSex\jd03\bin\Debug\jd03.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSex\jd03\obj\Debug\jd03.csprojResolveAssemblyReference.cache
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSex\jd03\obj\Debug\jd03.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSex\jd03\obj\Debug\jd03.pdb

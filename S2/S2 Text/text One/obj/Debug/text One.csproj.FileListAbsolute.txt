@@ -1,0 +1,11 @@
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\bin\Debug\text One.exe.config
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\bin\Debug\text One.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\bin\Debug\text One.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\obj\Debug\text One.csprojResolveAssemblyReference.cache
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\obj\Debug\text_One.frmAdd.resources
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\obj\Debug\text_One.frmMain.resources
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\obj\Debug\text_One.Properties.Resources.resources
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\obj\Debug\text One.csproj.GenerateResource.Cache
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\obj\Debug\text One.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\obj\Debug\text One.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\S2 Text\text One\obj\Debug\text_One.frmSelect.resources

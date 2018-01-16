@@ -1,0 +1,5 @@
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\jd04\bin\Debug\jd04.exe.config
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\jd04\bin\Debug\jd04.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\jd04\bin\Debug\jd04.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\jd04\obj\Debug\jd04.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\jd04\obj\Debug\jd04.pdb

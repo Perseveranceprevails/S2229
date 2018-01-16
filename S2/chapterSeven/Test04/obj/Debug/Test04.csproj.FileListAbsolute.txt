@@ -1,0 +1,6 @@
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\Test04\bin\Debug\Test04.exe.config
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\Test04\bin\Debug\Test04.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\Test04\bin\Debug\Test04.pdb
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\Test04\obj\Debug\Test04.csprojResolveAssemblyReference.cache
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\Test04\obj\Debug\Test04.exe
+F:\Visu Studio\Visual Studio 2012\Projects\S2\chapterSeven\Test04\obj\Debug\Test04.pdb
